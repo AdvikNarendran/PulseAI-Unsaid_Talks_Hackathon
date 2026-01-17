@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Secrets
+config.json
+
+# Media Output
+generated_clips/
+*.mp4
+*.mov
+*.wav
+
+# Binaries
+ffmpeg.exe
+ffmpeg-win32-v*.exe
+
+# IDE
+.vscode/
+.idea/
+.metals/
