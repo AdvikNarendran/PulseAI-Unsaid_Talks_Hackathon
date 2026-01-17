@@ -9,7 +9,10 @@ I used **Google Gemini** to understand the video content and **OpenAI Whisper** 
 
 ## 📸 Demo
 
-[![Demo Video]((https://drive.google.com/file/d/1uD9mHcUZJs-Fyq6UIaMaB_9QF1b-KjvP/view?usp=sharing)D)]
+((https://drive.google.com/file/d/1uD9mHcUZJs-Fyq6UIaMaB_9QF1b-KjvP/view?usp=sharing)
+
+Open the link in a new tab.
+Some parts have been fast forwarded/skipped as it took time to create transcript or to make the video snippet with subtitles.
 
 ---
 
