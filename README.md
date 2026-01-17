@@ -9,7 +9,7 @@ I used **Google Gemini** to understand the video content and **OpenAI Whisper** 
 
 ## 📸 Demo
 
-[![Demo Video](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Demo Video]([https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_I](https://drive.google.com/file/d/1uD9mHcUZJs-Fyq6UIaMaB_9QF1b-KjvP/view?usp=sharing)D)]
 
 ---
 
